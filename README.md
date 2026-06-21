@@ -4,7 +4,7 @@ A cybersecurity-focused web application that evaluates password strength using m
 
 ## 🚀 Live Demo
 
-🌐 https://cyber-shield-passowrd-strength-anal.vercel.app/
+🌐 https://cybershieldanalyzer.vercel.app/
 
 ## 📂 GitHub Repository
 
